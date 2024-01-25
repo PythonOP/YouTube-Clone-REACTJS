@@ -14,7 +14,7 @@
   <p align="center">
      A YouTube clone with a sleek dark theme
     <br />
-    <a href="/">View Demo</a>
+<!--     <a href="/">View Demo</a> -->
   </p>
 </div>
 
@@ -23,6 +23,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![image](https://github.com/PythonOP/youtube-clone-reactjs/assets/67553065/e55f99fd-5dcb-4264-8fcd-a87740560ff4)
+![image](https://github.com/PythonOP/youtube-clone-reactjs/assets/67553065/746e8b5b-1e3c-409f-a621-6c55ccbf170b)
+
 
 
 Created a visually engaging YouTube clone with a modern dark theme using ReactJS and integrated YouTube's API for robust backend services. Explore seamless video playback and a user-friendly interface in this project, designed to showcase my skills in frontend development and API integration.
